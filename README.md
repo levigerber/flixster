@@ -25,3 +25,4 @@ https://imgur.com/a/ubAGgZ6
 
 ### Notes
 I had to add `NSAllowsArbitraryLoads` to `info.plist` and set it to True for image loading to work.
+The GIF is too large to embed here, please click the link.
