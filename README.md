@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 <img src="https://s2.gifyu.com/images/Screen-Recording-2021-02-17-at-4.12.40-PM.gif" width=250><br>
-<a href=""https://imgur.com/a/ubAGgZ6" />
+https://imgur.com/a/ubAGgZ6
 
 ### Notes
 I had to add `NSAllowsArbitraryLoads` to `info.plist` and set it to True for image loading to work.
